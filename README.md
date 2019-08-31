@@ -7,3 +7,7 @@
 
 ## Contents
 
+### sort
+
+- bubble sort
+- quick sort
