@@ -17,7 +17,7 @@ int main() {
     int N; cin >> N;
     int array[N];
     for (int i=0; i<N; ++i) cin >> array[i];
-    bubble_sort(array, N);
+    bubble_sort_quick(array, N);
     for (int i=0; i<N; ++i) cout << array[i] << " ";
     cout << endl;
 }
