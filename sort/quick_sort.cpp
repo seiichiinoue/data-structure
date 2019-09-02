@@ -9,7 +9,7 @@ void swap(int *a, int *b) {
 
 int partition(int *array, int l, int r) {
     int pivot = array[r];
-    int i = l-1;    // チェック済みindex
+    int i = l-1;    // pivotより小さいものだけをi以下にまとめる
     for (int j=l; j<=r-1; ++j) {    
         if (array[j] <= pivot) {    
             ++i;                    
