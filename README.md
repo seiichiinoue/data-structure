@@ -10,6 +10,7 @@
 ### sort
 
 - bubble sort
+- shaker sort
 - quick sort
 
 ### tree
