@@ -11,6 +11,7 @@
 
 - bubble sort
 - shaker sort
+- comb sort
 - quick sort
 
 ### tree
