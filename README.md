@@ -9,9 +9,11 @@
 
 ### sort
 
+- insertion sort
 - bubble sort
 - shaker sort
 - comb sort
+- merge sort
 - quick sort
 
 ### tree
