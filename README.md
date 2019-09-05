@@ -15,7 +15,9 @@
 - comb sort
 - merge sort
 - quick sort
+- heap sort
 
 ### tree
 
 - union find tree
+- heap; priority queue
